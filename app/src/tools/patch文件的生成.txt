@@ -1,0 +1,1 @@
+解压bsdiff-v4.3-win之后会有两个文件，直接把两个android安装包放进去之后，通过命令 bsdiff old.apk new.apk patch就可以生成相应的patch文件了！
